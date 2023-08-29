@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>ChromeForTestingProject</name>
+   <name>ChromeForTesting</name>
    <tag></tag>
-   <UUID>9f72d582-c477-437e-b92a-80d638e5e342</UUID>
+   <UUID>849244ac-e4f2-4ce5-b84c-c9a45dfc0895</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/linh.nguyen/git/ChromeForTesting/ChromeForTesting.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
